@@ -1,0 +1,26 @@
+問1：背景画像を設定するプロパティは次のうちどれでしょう。
+1. background-position
+2. background-size
+3. background-image
+4. background-color
+Answer：3
+
+
+問2：色を指定する方法は、代表的なものとして3種類あります。全ての指定方法で「赤」を指定してください。
+Answer
+color: red;
+color: #ff0000;
+color: rgb(255, 0, 0);
+
+
+問3：次の<p>タグに囲まれた文字の書き方で、正しいのはどちらでしょう。
+1.
+	<p>私の名前はWebCampです。これから</p>
+	<p>一緒にスキルをより磨きましょう！</p>
+
+2.
+	<p>
+	　　私の名前はWebCampです。これから<br>
+	   一緒にスキルをより磨きましょう！
+	</p>
+Answer：2
